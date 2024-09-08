@@ -36,19 +36,15 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
-                                    </a>
-                                </Link>
+                               
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/empire-auroras-1235157719409885184" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discordapp.com/oauth2/authorize?client_id=1278537605822025789&scope=bot&permissions=2146958847" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -105,7 +101,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Nodesty ❤️"}
+                            {"Powered by circle company ❤️"}
                         </p>
                     </div>
                 </div>
